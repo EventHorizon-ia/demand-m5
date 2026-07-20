@@ -51,7 +51,7 @@ README.md
 ## Links
 
 - [Production Code](https://github.com/EventHorizon-ia/eventhorizon-demand)
-- [Main Hub](https://github.com/EventHorizon-ia/eventhorizon-ai)
+- [Main Hub](https://github.com/EventHorizon-ia/eventhorizon)
 
 ---
 

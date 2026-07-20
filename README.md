@@ -1,4 +1,4 @@
-# Demanda M5
+# Demand M5
 
 **Research notebook for retail demand forecasting.**
 Baseline, feature iteration, and final validated model on the M5 Walmart dataset.
@@ -36,7 +36,7 @@ The same rigorous pipeline used across all EventHorizon products:
 - Metrics: WAPE, MAE, improvement over baseline
 
 This pipeline is extracted into a standalone library:
-**[honest‑validation‑toolkit](https://github.com/seu-usuario/honest-validation-toolkit)**.
+**[honest‑validation‑toolkit](https://github.com/EventHorizon-ia/honest-validation-toolkit)**.
 
 ---
 
@@ -50,9 +50,9 @@ README.md
 
 ## Links
 
-- [Production Code](https://github.com/seu-usuario/eventhorizon-demand)
-- [Main Hub](https://github.com/seu-usuario/eventhorizon-ai)
+- [Production Code](https://github.com/EventHorizon-ia/eventhorizon-demand)
+- [Main Hub](https://github.com/EventHorizon-ia/eventhorizon-ai)
 
 ---
 
-*Demanda M5 — 30 % better than guessing. Rigorously proven.*
+*Demand M5 — 30 % better than guessing. Rigorously proven.*

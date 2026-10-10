@@ -132,17 +132,8 @@ naive lag-7 baseline within each bootstrap resample.
 
 ---
 
-## Repository Contents
 
-```text
-demand-m5/
-├── metricas_finais.json
-├── notebooks/
-├── src/
-└── README.md
-```
 
-Update this section to match the actual files and folders in the repository.
 
 ---
 
